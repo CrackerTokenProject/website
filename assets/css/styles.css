@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600);
-@import url(http://fonts.googleapis.com/css?family=Raleway:600,700,800);
+@import url(https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap);
 html, button, input, select, textarea {
 	color: #222;
 }
@@ -51,7 +51,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-webkit-overflow-scrolling: touch;
 	line-height: 1.4;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Raleway', raleway;
 }
 .logo a {
 margin: 0 auto; 
@@ -101,7 +101,7 @@ text-align: center;
 	margin-left: -15px;
 }
 .modal-header {
-	background: #E89A2F;
+	background: #38cacb;
 }
 .modal-header h4 {
 	color: white;
@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 h2 {
 	font-size: 36px;
-	color: #E89A2F;
+	color: #38cacb;
 }
 h3 {
 	font-size: 26px;
@@ -269,11 +269,11 @@ a:before, a:after {
 	font-weight: 500;
 	font-size: 20px;
 	margin: 50px 0;
-	background-color: #EEE599;
+	background-color: #defff8;
 	color: #fff;
 	border-radius: 0;
 	color: #25595A;
-	text-shadow: #FC0 1px 0 10px;
+	text-shadow: #629489 1px 0 10px;
 }
 #headerwrap .btn:hover, #headerwrap .btn:focus {
 	background-color:#fff;
@@ -284,7 +284,7 @@ a:before, a:after {
  
 .img-circle {
 border-radius: 50%;
-border: 1px solid #E89A2F;
+border: 1px solid #38cacb;
 padding: 5px;
 background: #fff;
 }
@@ -299,15 +299,19 @@ background: #fff;
 	background: #FFFFFF;
 	padding: 100px 0;
 	text-align: center;
+	text-shadow: #d5efe9 1px 0 10px;
+}
+#services .h2 {
+	color: #38cacb;
 }
 #services .fa {
-	color: #E89A2F;
+	color: #38cacb;
 }
 #services p {
 	text-align: center;
 }
 .hero-section{
-background-color: #E89A2F;
+background-color: #38cacb;
 padding:60px 0
 }
 .hero-section p {
@@ -348,7 +352,7 @@ background:#fff;
 	line-height: 30px;
 	outline: 0;
 	color: #fff;
-	background-color: #E89A2F;
+	background-color: #38cacb;
 	-webkit-transition: all .3s;
 	-moz-transition: all .3s;
 	transition: all .3s;
@@ -373,14 +377,14 @@ background:#fff;
 	padding: 30px 0;
 }
 #contact .fa {
-	color: #E89A2F;
+	color: #38cacb;
 	margin-bottom: 10px;
 }
 #contact .btn {
 	font-weight: 500;
 	font-size: 18px;
 	margin-top: 50px;
-	background-color: #E89A2F;
+	background-color: #38cacb;
 	color: #fff;
 	border: 0;
 	border-radius: 0;
